@@ -5,8 +5,8 @@
 - 🌱 Atualmente estou aprendendo python.
       I'm currently learning python.
 - 📫 Como entrar em contato comigo no linkedin: https://www.linkedin.com/in/bruno-rodriguez-de-carvalho-97152b365/
-- ⚡ Hobby: cozinhar.
-- Hobby: cooking.
+- ⚡ Hobby: cozinhar. My
+      My Hobby cooking.
 
 
 <!---
