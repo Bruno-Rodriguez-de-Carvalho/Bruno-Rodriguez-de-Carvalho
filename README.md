@@ -16,9 +16,7 @@
 ---
 Proficiencias:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
- -SQL (oracle)
- -Power BI
- -Linux
+ ,SQL (oracle), Power BI, Linux
 
 <!---
 Bruno-Rodriguez-de-Carvalho/Bruno-Rodriguez-de-Carvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
