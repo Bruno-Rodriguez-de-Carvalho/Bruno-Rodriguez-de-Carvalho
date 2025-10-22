@@ -21,8 +21,6 @@ Proficiencias:
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/efee4b1e-2a2d-4a0b-a9a0-3c5ef87a4bbf" />
 
 
-  Linux
-
 <!---
 Bruno-Rodriguez-de-Carvalho/Bruno-Rodriguez-de-Carvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
