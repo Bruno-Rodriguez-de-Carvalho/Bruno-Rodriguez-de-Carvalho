@@ -16,9 +16,12 @@
 ---
 Proficiencias:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6cf9ce1a-2f0e-4f24-b8a9-26ad37fd4089" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/af95354a-5ff6-4dcf-afa0-71a1920fb7ce" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d8bda731-936f-4add-9483-4e46070d3178" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/efee4b1e-2a2d-4a0b-a9a0-3c5ef87a4bbf" />
 
- ,SQL (oracle), Power BI, Linux
+
+  Linux
 
 <!---
 Bruno-Rodriguez-de-Carvalho/Bruno-Rodriguez-de-Carvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
