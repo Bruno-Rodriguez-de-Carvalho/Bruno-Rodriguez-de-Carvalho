@@ -16,6 +16,8 @@
 ---
 Proficiencias:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6cf9ce1a-2f0e-4f24-b8a9-26ad37fd4089" />
+
  ,SQL (oracle), Power BI, Linux
 
 <!---
