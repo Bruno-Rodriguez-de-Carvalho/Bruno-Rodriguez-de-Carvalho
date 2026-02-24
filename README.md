@@ -10,7 +10,7 @@
 
   🔭Contatos e lolização
    <div id="badges">
-  <a href = "[Bruno-Rodriguez-de-Carvalho/Bruno-Rodriguez-de-Carvalho](https://www.linkedin.com/in/bruno-rodriguez-de-carvalho-97152b365/)">
+  <a href = "https://www.linkedin.com/in/bruno-rodriguez-de-carvalho-97152b365/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ---
