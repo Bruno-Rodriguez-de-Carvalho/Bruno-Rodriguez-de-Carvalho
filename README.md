@@ -1,15 +1,10 @@
-- 👋 Olá, sou @Bruno-Rodriguez-de-Carvalho
-      (Hello, I'm @Bruno-Rodriguez-de-Carvalho)
-- 📖Cursando o quato semestre de Ciencia de Dados e IA no CEUB.
-      (Studying the 4th semester of Data Science and AI at CEUB.)
-- 👀 Estou interessado em terminar meu curço e conseguir um primeiro emprego.
-      (I'm interested in finishing my degree and getting a first job.)
-- 🌱 Atualmente estou aprendendo python, R, SQL.
-      (I'm currently learning python, R and SQL.)
+- 👋 Olá, sou @Bruno-Rodriguez-de-Carvalho (Hello, I'm @Bruno-Rodriguez-de-Carvalho)
+- 📖Cursando o quarto semestre de Ciência de Dados e IA no CEUB. (Studying the 4th semester of Data Science and AI at CEUB.)
+- 👀 Estou interessado em terminar meu curso e conseguir um primeiro emprego. (I'm interested in finishing my degree and getting a first job.)
+- 🌱 Atualmente estou aprendendo python, R, SQL. (I'm currently learning python, R and SQL.)
 - 📫 Como entrar em contato comigo no linkedin: https://www.linkedin.com/in/bruno-rodriguez-de-carvalho-97152b365/
-- ⚡ Hobby: cozinhar e construir coisas (projeto Inmoov robo na faculdade) (. (My
-      (My Hobby cooking and building things (InMoov robot project at college).)
-- **Yo** Um pouco mais de mim e de meus trabalhos com bi (o meu site) (A little more about me and my work with bi (my website.):
+- ⚡ Hobby: cozinhar e construir coisas (projeto Inmoov robô na faculdade) (My Hobby cooking and building things (InMoov robot project at college).)
+- **Yo** Um pouco mais de mim e de meus trabalhos com BI (o meu site) (A little more about me and my work with bi (my website.):
    <div id="badges">
   <a href = "https://bruno-rodriguez-de-carvalho.github.io/portifolio-bruno/">
     <img src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="website Badge"/>
